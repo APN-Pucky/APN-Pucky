@@ -14,5 +14,5 @@
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TUM?label=TUM)
 
 #### Android
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/mTUO?label=mTUO)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/NXT-Android-Control?label=%20NXT-Android-Control)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/mTUO?label=mTUO)
