@@ -2,6 +2,7 @@
 
 #### Python
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/smpl?label=smpl)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/HEPi?label=HEPi)
 
 #### C++
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/tyrant_optimize?label=tyrant_optimize)
