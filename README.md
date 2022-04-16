@@ -13,6 +13,7 @@
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/GitJarUpdate?label=%20GitJarUpdate)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TUM?label=TUM)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/APN-Pucky-Line-Chat-Bot?label=APN-Pucky-Line-Chat-Bot%20)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TUR?label=TUR)
 
 #### Android
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/NXT-Android-Control?label=%20NXT-Android-Control)
