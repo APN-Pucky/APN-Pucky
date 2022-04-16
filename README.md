@@ -16,3 +16,6 @@
 #### Android
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/NXT-Android-Control?label=%20NXT-Android-Control)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/mTUO?label=mTUO)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=APN-Pucky)](https://github.com/anuraghazra/github-readme-stats)
