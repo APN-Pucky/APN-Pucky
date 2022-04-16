@@ -1,23 +1,23 @@
 ### My active projects:
 
 #### Python
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/smpl?label=smpl)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/HEPi?label=HEPi)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/smpl?label=smpl)](https://apn-pucky.github.io/smpl/index.html)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/HEPi?label=HEPi)](https://github.com/APN-Pucky/HEPi)
 
 #### C++
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/tyrant_optimize?label=tyrant_optimize)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/guess_factor?label=guess_factor)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/tyrant_optimize?label=tyrant_optimize)](https://github.com/APN-Pucky/tyrant_optimize)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/guess_factor?label=guess_factor)](https://apn-pucky.github.io/guess_factor/index.html)
 
 #### Java
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TeXCalc?label=TeXCalc)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/GitJarUpdate?label=%20GitJarUpdate)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TUM?label=TUM)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/APN-Pucky-Line-Chat-Bot?label=APN-Pucky-Line-Chat-Bot%20)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TUR?label=TUR)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TeXCalc?label=TeXCalc)](https://github.com/APN-Pucky/TeXCalc)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/GitJarUpdate?label=%20GitJarUpdate)](https://github.com/APN-Pucky/GitJarUpdate)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TUM?label=TUM)](https://github.com/APN-Pucky/TUM)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/APN-Pucky-Line-Chat-Bot?label=APN-Pucky-Line-Chat-Bot%20)](https://github.com/APN-Pucky/APN-Pucky-Line-Chat-Bot)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TUR?label=TUR)](https://github.com/APN-Pucky/TUR)
 
 #### Android
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/NXT-Android-Control?label=%20NXT-Android-Control)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/mTUO?label=mTUO)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/NXT-Android-Control?label=%20NXT-Android-Control)](https://github.com/APN-Pucky/NXT-Android-Control)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/mTUO?label=mTUO)](https://github.com/APN-Pucky/mTUO)
 
 
 
