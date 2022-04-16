@@ -1,4 +1,4 @@
-### My active solo projects:
+### My active projects:
 
 #### Python
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/smpl?label=smpl)
