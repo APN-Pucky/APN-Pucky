@@ -2,7 +2,7 @@
 
 #### Python
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/smpl?label=smpl)](https://apn-pucky.github.io/smpl/index.html)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/HEPi?label=HEPi)](https://github.com/APN-Pucky/HEPi)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/HEPi?label=HEPi)](https://apn-pucky.github.io/HEPi/index.html)
 
 #### C++
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/tyrant_optimize?label=tyrant_optimize)](https://github.com/APN-Pucky/tyrant_optimize)
