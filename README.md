@@ -16,9 +16,9 @@
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TUR?label=TUR)](https://github.com/APN-Pucky/TUR)
 
 #### Android
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/NXT-Android-Control?label=%20NXT-Android-Control)](https://github.com/APN-Pucky/NXT-Android-Control)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/mTUO?label=mTUO)](https://github.com/APN-Pucky/mTUO)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/ArcheryStats?label=ArcheryStats)](https://github.com/APN-Pucky/ArcheryStats)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/NXT-Android-Control?label=%20NXT-Android-Control)](https://github.com/APN-Pucky/NXT-Android-Control)
 
 
 
