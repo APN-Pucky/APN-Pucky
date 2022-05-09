@@ -6,7 +6,7 @@
 
 #### C++
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/tyrant_optimize?label=tyrant_optimize)](https://github.com/APN-Pucky/tyrant_optimize)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/guess_factor?label=guess_factor)](https://apn-pucky.github.io/guess_factor/index.html)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/guess_factor?label=guess_factor)](https://github.com/APN-Pucky/guess_factor)
 
 #### Java
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TeXCalc?label=TeXCalc)](https://github.com/APN-Pucky/TeXCalc)
