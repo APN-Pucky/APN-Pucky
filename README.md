@@ -21,6 +21,8 @@
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/ArcheryStats?label=ArcheryStats)](https://github.com/APN-Pucky/ArcheryStats)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/NXT-Android-Control?label=%20NXT-Android-Control)](https://github.com/APN-Pucky/NXT-Android-Control)
 
+Find my experimental/test/private projects here <https://gitlab.com/APN-Pucky>.
+
 ### My Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=APN-Pucky)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -28,4 +30,3 @@
 | ------------- | ------------- |
 
 
-Find my experimental/test/private projects here <https://gitlab.com/APN-Pucky>.
