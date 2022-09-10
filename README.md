@@ -44,6 +44,8 @@ Find my experimental/test/private projects here <https://gitlab.com/APN-Pucky>.
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/opencl-testing?label=opencl-testing%20)](https://github.com/APN-Pucky/opencl-testing)
 
 #### Java
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/CallOfGloop?label=CallOfGloop%20)](https://github.com/APN-Pucky/CallOfGloop)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/QuadrokopterMulti?label=QuadrokopterMulti%20)](https://github.com/APN-Pucky/QuadrokopterMulti)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/APN-Pucky-Line-Chat-Bot?label=APN-Pucky-Line-Chat-Bot%20)](https://github.com/APN-Pucky/APN-Pucky-Line-Chat-Bot)
 
 
