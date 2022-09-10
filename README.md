@@ -14,13 +14,11 @@
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/GitJarUpdate?label=%20GitJarUpdate)](https://github.com/APN-Pucky/GitJarUpdate)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TUM?label=TUM)](https://github.com/APN-Pucky/TUM)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TUR?label=TUR)](https://github.com/APN-Pucky/TUR)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/APN-Pucky-Line-Chat-Bot?label=APN-Pucky-Line-Chat-Bot%20)](https://github.com/APN-Pucky/APN-Pucky-Line-Chat-Bot)
 
 
 #### Android
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/mTUO?label=mTUO)](https://github.com/APN-Pucky/mTUO)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/ArcheryStats?label=ArcheryStats)](https://github.com/APN-Pucky/ArcheryStats)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/NXT-Android-Control?label=%20NXT-Android-Control)](https://github.com/APN-Pucky/NXT-Android-Control)
 
 #### Docker
 
@@ -36,4 +34,15 @@ Find my experimental/test/private projects here <https://gitlab.com/APN-Pucky>.
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=APN-Pucky&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="APN-Pucky's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APN-Pucky&layout=compact&theme=buefy&hide_border=true&exclude_repo=mTUO&hide=jupyter%20notebook" /></a> |
 | ------------- | ------------- |
 
+### My inactive projects:
 
+#### Node
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/Nodecopter-Drohne?label=Nodecopter-Drohne%20)](https://github.com/APN-Pucky/Nodecopter-Drohne)
+
+#### Java
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/APN-Pucky-Line-Chat-Bot?label=APN-Pucky-Line-Chat-Bot%20)](https://github.com/APN-Pucky/APN-Pucky-Line-Chat-Bot)
+
+
+#### Android
+
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/NXT-Android-Control?label=%20NXT-Android-Control)](https://github.com/APN-Pucky/NXT-Android-Control)
