@@ -37,6 +37,7 @@ Find my experimental/test/private projects here <https://gitlab.com/APN-Pucky>.
 ### My inactive/completed projects:
 
 #### Node
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/Lentokonepeli?label=Lentokonepeli%20)](https://github.com/APN-Pucky/Lentokonepeli)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/APNMusic?label=APNMusic%20)](https://github.com/APN-Pucky/APNMusic)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/Nodecopter-Drohne?label=Nodecopter-Drohne%20)](https://github.com/APN-Pucky/Nodecopter-Drohne)
 
