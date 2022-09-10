@@ -40,6 +40,9 @@ Find my experimental/test/private projects here <https://gitlab.com/APN-Pucky>.
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/APNMusic?label=APNMusic%20)](https://github.com/APN-Pucky/APNMusic)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/Nodecopter-Drohne?label=Nodecopter-Drohne%20)](https://github.com/APN-Pucky/Nodecopter-Drohne)
 
+#### C/C++
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/opencl-testing?label=opencl-testing%20)](https://github.com/APN-Pucky/opencl-testing)
+
 #### Java
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/APN-Pucky-Line-Chat-Bot?label=APN-Pucky-Line-Chat-Bot%20)](https://github.com/APN-Pucky/APN-Pucky-Line-Chat-Bot)
 
