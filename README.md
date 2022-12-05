@@ -14,6 +14,7 @@
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/GitJarUpdate?label=%20GitJarUpdate)](https://github.com/APN-Pucky/GitJarUpdate)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TUM?label=TUM)](https://github.com/APN-Pucky/TUM)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TUR?label=TUR)](https://github.com/APN-Pucky/TUR)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TULib?label=TULib)](https://github.com/APN-Pucky/TULib)
 
 
 #### Android
