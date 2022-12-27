@@ -25,6 +25,7 @@
 #### Github Action
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/make-python-action?label=make-python-action)](https://github.com/APN-Pucky/make-python-action)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/fast-forward-action?label=fast-forward-action)](https://github.com/APN-Pucky/fast-forward-action)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/branch-follow-tag?label=branch-follow-tag)](https://github.com/APN-Pucky/branch-follow-tag)
 
 
 #### Docker
