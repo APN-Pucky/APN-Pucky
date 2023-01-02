@@ -5,6 +5,7 @@
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/HEPi?label=HEPi)](https://github.com/APN-Pucky/HEPi)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/metamorph?label=metamorph)](https://github.com/APN-Pucky/metamorph)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/pyfeyn2?label=pyfeyn2)](https://github.com/APN-Pucky/pyfeyn2)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/feynml?label=feynml)](https://github.com/APN-Pucky/feynml)
 
 #### C++
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/tyrant_optimize?label=tyrant_optimize)](https://github.com/APN-Pucky/tyrant_optimize)
