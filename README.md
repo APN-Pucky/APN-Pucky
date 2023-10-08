@@ -14,6 +14,9 @@ https://apn-pucky.github.io/
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/tyrant_optimize?label=tyrant_optimize)](https://github.com/APN-Pucky/tyrant_optimize)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/guess_factor?label=guess_factor)](https://github.com/APN-Pucky/guess_factor)
 
+#### Rust
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/raid_optimize?label=raid_optimize)](https://github.com/APN-Pucky/raid_optimize)
+
 #### Java
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/TeXCalc?label=TeXCalc)](https://github.com/APN-Pucky/TeXCalc)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/GitJarUpdate?label=%20GitJarUpdate)](https://github.com/APN-Pucky/GitJarUpdate)
