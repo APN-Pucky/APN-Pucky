@@ -70,3 +70,5 @@ Find my experimental/test/private projects here <https://gitlab.com/APN-Pucky>.
 #### Android
 
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/APN-Pucky/NXT-Android-Control?label=%20NXT-Android-Control)](https://github.com/APN-Pucky/NXT-Android-Control)
+
+![](https://komarev.com/ghpvc/?username=APN-Pucky)
