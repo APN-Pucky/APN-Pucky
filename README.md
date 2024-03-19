@@ -1,6 +1,3 @@
-### My Links
-https://apn-pucky.github.io/
-
 ### My active projects:
 
 #### Python
